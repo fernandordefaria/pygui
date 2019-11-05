@@ -1,2 +1,3 @@
-# pygui
-Python GUI
+# PythinGUI
+
+Sistema com GUI
